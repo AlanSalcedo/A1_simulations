@@ -23,7 +23,8 @@ fi
 
 # run the reconstruction script
 #export HDF5_USE_FILE_LOCKING='FALSE'
-source /home/alansalgo/config_ARA.sh
+source /home/alansalgo/config_ARA.sh    #This loads my local version of AraRoot. Comment it and uncomment the line below to use the cvmfs version.
+#source /cvmfs/ara.opensciencegrid.org/trunk/centos7/setup.sh
 #source /home/mkim/analysis/MF_filters/setup.sh
 cd /home/alansalgo/AraSim/
 

@@ -1,0 +1,26 @@
+000 (196060378.000.000) 2023-08-29 09:12:00 Job submitted from host: <10.128.11.86:20758?addrs=10.128.11.86-20758&alias=submit-1.icecube.wisc.edu>
+    DAG Node: ARA_S1_C1_Sim1
+...
+040 (196060378.000.000) 2023-08-29 09:14:57 Started transferring input files
+	Transferring to host: <10.128.10.44:51068?addrs=10.128.10.44-51068&alias=n-134.icecube.wisc.edu>
+...
+040 (196060378.000.000) 2023-08-29 09:14:57 Finished transferring input files
+...
+001 (196060378.000.000) 2023-08-29 09:14:57 Job executing on host: <10.128.10.44:44393?addrs=10.128.10.44-44393&alias=n-134.icecube.wisc.edu>
+...
+006 (196060378.000.000) 2023-08-29 09:15:06 Image size of job updated: 568544
+	63  -  MemoryUsage of job (MB)
+	64028  -  ResidentSetSize of job (KB)
+...
+006 (196060378.000.000) 2023-08-29 09:20:06 Image size of job updated: 657492
+	122  -  MemoryUsage of job (MB)
+	123924  -  ResidentSetSize of job (KB)
+...
+006 (196060378.000.000) 2023-08-29 09:25:06 Image size of job updated: 657492
+	122  -  MemoryUsage of job (MB)
+	123956  -  ResidentSetSize of job (KB)
+...
+006 (196060378.000.000) 2023-08-29 09:30:07 Image size of job updated: 657492
+	122  -  MemoryUsage of job (MB)
+	124028  -  ResidentSetSize of job (KB)
+...

@@ -15,7 +15,7 @@ ONLY_PASSED_EVENTS=1 // (DEFAULT=0) 0: runs NNU neutrinos. 1: runs until NNU_PAS
  
 NNU=100 // (DEFAULT=100) The total number of neutrinos thrown. 
  
-NNU_PASSED=500 // (DEFAULT=10) when using ONLY_PASSED_EVENTS this determines how many events will pass the trigger. 
+NNU_PASSED=50 // (DEFAULT=10) when using ONLY_PASSED_EVENTS this determines how many events will pass the trigger. 
  
 
 // generating noise (user guide: see section 3.3 page 8) //
