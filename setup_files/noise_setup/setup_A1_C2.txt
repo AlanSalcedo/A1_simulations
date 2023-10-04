@@ -62,7 +62,7 @@ TAUDECAY=0 // (DEFAULT=0) 0: do not allow secondary tau decay. 1: allow secondar
  
 RAYSOL_RANGE=13000 // (DEFAULT=5000) distance from detector above which we do not attempt a ray solution (there is no trigger check beyond this). 
 
-RAY_TRACE_ICE_MODEL_PARAMS=4 //LOOK HERE: WHAT ICE MODEL?  
+RAY_TRACE_ICE_MODEL_PARAMS=40 //LOOK HERE: WHAT ICE MODEL?  
 
 USE_ARA_ICEATENU=2
 
@@ -76,7 +76,7 @@ TRIG_ANALYSIS_MODE=2 // (DEFAULT=0) 0: signal+noise. 1: signal only. 2: noise on
 
 \\LOOK HERE! ASK ABOUT THIS
 
-POWERTHRESHOLD=-6.613 //Mostly 2016 // (DEFAULT=-6.15) the trigger threshold (the closer to zero the weaker the threshold. measured in sigmas above the noise floor. 
+POWERTHRESHOLD=-3.0 //Mostly 2016 // (DEFAULT=-6.15) the trigger threshold (the closer to zero the weaker the threshold. measured in sigmas above the noise floor. 
 
 //LOOK HERE! NEED THIS VALUE FROM MOHAMMAD
   
